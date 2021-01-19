@@ -1,7 +1,7 @@
 ## Fractal-Stamp
 Create your unique stamp for your Bitcoin
 
-Python script for generating a Bitcoin Post Stamp.
+Python Notebook script for generating a Bitcoin Post Stamp.
 Stamp includes the value accordign the block chain.
 
 Python dependencies:
