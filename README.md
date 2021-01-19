@@ -1,10 +1,10 @@
 ## Bitcoin-Stamp
 Create your unique stamp for your Bitcoin with Fractals
 
-Python Notebook script for generating a Bitcoin Post Stamp.
-Stamp includes the value accordign the block chain.
+Python Notebook script for generating a Bitcoin Post Stamp.  
+Stamp includes the value according the block chain.
 
-Python dependencies:
+### Python dependencies:
 datetime lib  
 Numba  lib to sue jit for CPU acceleration  
 Numpy lib  
@@ -14,6 +14,6 @@ base58 for bitcoin to HEX
 requests for get-requests  
 json for request parsing  
 
-Online dependencies:  
+### Online dependencies:  
 www.blockchain.info API calls
 
